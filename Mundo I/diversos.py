@@ -1,0 +1,10 @@
+import math
+n1 = int(input('Digite um numero: '))
+n2 = int(input('Digite outro numero: '))
+print('Alguns formas de executar o print')
+print("A soma entre os numeros é: {}".format(n1 + n2))
+print('A multiplicação entre os numeros é: {}'.format(n1*n2))
+print('A divisão entre os numeros é: {:.2f}'.format(n1/n2))
+print('A potencia entre os numeros é: {}'.format(n1**n2))
+print('A raiz quadrada do primeiro numero é: {}'.format(math.sqrt(n1)))
+print('A raiz cubica do primeiro numero é: {}'.format(n1**1/3))
