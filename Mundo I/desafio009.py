@@ -1,4 +1,4 @@
-'''Faça um programa que leia um número e mostr na tela sua tabuada'''
+'''Faça um programa que leia um número e mostre na tela sua tabuada'''
 num = int(input('Informe um número: '))
 
 print(num*0)
